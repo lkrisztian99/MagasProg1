@@ -1,0 +1,10 @@
+Zsolt 5 5.5
+Akos 8 28.6
+Bela 12 63.7
+Csaba 55 84.8
+Kutya 38 54.2
+Cica 24 22.5
+Zoldseg 66 10.1
+Fu 76 12.2
+Igen 102 132.65
+Nem 10233 553.23
